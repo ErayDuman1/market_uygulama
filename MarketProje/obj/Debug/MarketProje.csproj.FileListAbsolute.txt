@@ -1,0 +1,113 @@
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.SubeListelemeEkranı.resources
+C:\Users\Eray DUMAN\source\repos\MarketProje\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\berkc\Desktop\MarketProje\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\berkc\Desktop\MarketProje\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\berkc\Desktop\MarketProje\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\berkc\Desktop\MarketProje\MarketProje\obj\Debug\MarketProje.TemizlikUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.TemizlikUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.Market2.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.GıdaUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProje\MarketProje\obj\Debug\MarketProje.KampanyaUrun.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.GıdaUrun.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.KampanyaUrun.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.Market2.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.TemizlikUrun.resources
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\berkc\Desktop\MarketProjee\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.GıdaUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.KampanyaUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.Market2.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.TemizlikUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\becau\source\repos\MarketProjee\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\becau\source\repos\MarketProjee\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\becau\source\repos\MarketProjee\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.GıdaUrun.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.KampanyaUrun.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.Market2.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.TemizlikUrun.resources
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\becau\source\repos\MarketProjee\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\bin\Debug\MarketProje.exe.config
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\bin\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\bin\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.csprojAssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.AnaEkran.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.Form1.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.GıdaUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.KampanyaUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.Market1.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.SubeEklemeEkrani.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.TemizlikUrun.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# UDEMY\MarketProjee (1)\MarketProjee\MarketProje\obj\Debug\MarketProje.AnaSayfa.resources
